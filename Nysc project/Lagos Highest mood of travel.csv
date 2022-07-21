@@ -1,0 +1,12 @@
+"MODE OF TRANSPOTAION DAILY","STATE OF SERVICE","Highest Mode of travel"
+Buses,LAGOS,33
+Motorcycle,LAGOS,6
+"Buses, TRICYCLE(Keke), Motorcycle",LAGOS,5
+"Buses, TRICYCLE(Keke)",LAGOS,5
+"Buses, Motorcycle",LAGOS,4
+UBER/Bolt,LAGOS,3
+TRICYCLE(Keke),LAGOS,3
+"TRICYCLE(Keke), Motorcycle",LAGOS,2
+"UBER/Bolt, Buses, TRICYCLE(Keke)",LAGOS,2
+"UBER/Bolt, Buses, Motorcycle",LAGOS,2
+"UBER/Bolt, Vehicle ",LAGOS,1
