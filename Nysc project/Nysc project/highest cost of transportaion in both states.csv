@@ -1,0 +1,22 @@
+"MODE OF TRANSPOTAION DAILY","Cost_of_Transportation(daily)","HIGHEST COST OF TRANSPORTATINO"
+Buses,800,61652
+UBER/Bolt,3000,36900
+"UBER/Bolt, Buses",1800,13800
+"Buses, TRICYCLE(Keke)",700,8650
+"Buses, TRICYCLE(Keke), Motorcycle",600,6900
+"Buses, Motorcycle",1600,6400
+"UBER/Bolt, Buses, TRICYCLE(Keke), Motorcycle",1000,6000
+"UBER/Bolt, TRICYCLE(Keke), Motorcycle",3000,6000
+"UBER/Bolt, Buses, Motorcycle",900,4900
+Motorcycle,600,4499
+"UBER/Bolt, Buses, TRICYCLE(Keke)",1200,3200
+My private car,2000,2000
+Along,2000,2000
+TRICYCLE(Keke),800,2000
+"UBER/Bolt, Vehicle ",2000,2000
+Taxi,950,1950
+"TRICYCLE(Keke), Motorcycle",800,1800
+Shared taxis (along),1100,1100
+"UBER/Bolt, Motorcycle",600,600
+Commercial,500,500
+Leg,200,200
